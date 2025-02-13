@@ -85,11 +85,15 @@ To view the results:
 
 ---
 
-## 🖼️ Screenshots
-| Test Case | Before | After |
-|-----------|--------|-------|
-| **Mike H** | ![Before](Screenshots/Before/Before_Booking_Mike_H.png) | ![After](Screenshots/After/After_Booking_Mike_H.png) |
-| **Robert D** | ![Before](Screenshots/Before/Before_Booking_Robert_D.png) | ![After](Screenshots/After/After_Booking_Robert_D.png) |
+## Screenshots 📸
+
+| Passenger | Before Booking Screenshot | After Booking Screenshot |
+|-----------|---------------------------|--------------------------|
+| Jake      | [Before Booking](https://github.com/DurgeshS-25/UFT-Automation-Testing/blob/main/Screenshots/Before/Before_Booking_Jake_2-11-2025%208-10-03%20PM.png) | [After Booking](https://github.com/DurgeshS-25/UFT-Automation-Testing/blob/main/Screenshots/After/After_Booking_Jake_2-11-2025%208-10-03%20PM.png) |
+| James     | [Before Booking](https://github.com/DurgeshS-25/UFT-Automation-Testing/blob/main/Screenshots/Before/Before_Booking_James_2-11-2025%208-09-49%20PM.png) | [After Booking](https://github.com/DurgeshS-25/UFT-Automation-Testing/blob/main/Screenshots/After/After_Booking_James_2-11-2025%208-09-49%20PM.png) |
+| Neil      | [Before Booking](https://github.com/DurgeshS-25/UFT-Automation-Testing/blob/main/Screenshots/Before/Before_Booking_Neil_2-11-2025%208-10-22%20PM.png) | [After Booking](https://github.com/DurgeshS-25/UFT-Automation-Testing/blob/main/Screenshots/After/After_Booking_Neil_2-11-2025%208-10-22%20PM.png) |
+
+
 
 ---
 
